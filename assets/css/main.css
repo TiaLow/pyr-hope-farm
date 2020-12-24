@@ -2439,7 +2439,9 @@ ul.contact {
 					height: 100%;
 					opacity: 1.0;
 					z-index: 1;
-					opacity: 0.8;
+
+					/* the opacity below dictates original tile opacity */
+					/* opacity: 0.8; */
 				}
 
 				.tiles article > .image:after {
@@ -2502,6 +2504,7 @@ ul.contact {
 					margin: 0;
 				}
 
+				/* below style is for homepage tile font on hover */
 				.tiles article > a:hover {
 					color: #ffffff !important;
 				}
@@ -2539,7 +2542,7 @@ ul.contact {
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #1A2C42;
+				background-color: #1b3d66;
 			}
 
 			.tiles article.style5 > .image:before {
@@ -2547,7 +2550,7 @@ ul.contact {
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #AD4328;
+				background-color: #92630b;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
