@@ -2908,6 +2908,7 @@ ul.contact {
 						line-height: 1.5;
 						border: 0;
 						color: inherit;
+						/* target: blank; */
 					}
 
 					#menu > .inner > ul > li:first-child {
