@@ -12,7 +12,7 @@ $(function(){
   });
   
   
-  $('.close').click(function(){
+  $('#close').click(function(){
   $('.popup').hide();
   overlay.appendTo(document.body).remove();
   return false;
