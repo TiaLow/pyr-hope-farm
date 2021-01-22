@@ -2867,6 +2867,12 @@ ul.contact {
 
 /* Menu */
 
+.menu-logo {
+	margin-top: 1.5em;
+	height: 100%;
+	width: 100%;
+}
+
 	#wrapper {
 		-moz-transition: opacity 0.45s ease;
 		-webkit-transition: opacity 0.45s ease;
