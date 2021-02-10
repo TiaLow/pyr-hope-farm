@@ -3,6 +3,10 @@
 # Author
 Tia Low
 
+## Description
+Static website for Pyr Hope Farm located in Shelton, WA
+
+
 ## HTML5 UP Template Credit
 Phantom by HTML5 UP
 html5up.net | @ajlkn | aj@lkn.io
